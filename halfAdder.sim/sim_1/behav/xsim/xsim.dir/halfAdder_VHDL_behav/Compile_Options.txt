@@ -1,0 +1,1 @@
+-wto "7fec3c0ab204442bb58b2459806ee9da" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "halfAdder_VHDL_behav" "xil_defaultlib.halfAdder_VHDL" -log "elaborate.log" 
